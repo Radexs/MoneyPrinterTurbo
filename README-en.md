@@ -18,6 +18,10 @@ English | [简体中文](README.md) | [日本語](README-ja.md) | [Releases](htt
 
 </div>
 
+## Fork extension: Spanish WebUI localization
+
+This fork completes Spanish translations for all 584 current WebUI strings in `webui/i18n/es.json`. Select **Español** under Settings → Language. The upstream project and its original authorship remain credited to [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo).
+
 ## Screenshots 🖥️
 
 <h4 align="center">WebUI</h4>
